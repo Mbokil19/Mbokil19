@@ -10,12 +10,12 @@ A Food Scientist turned Data Analyst passionate about transforming complex data 
 
 ## 🌟 Featured Project
 
-**[Drug-Induced Autoimmunity ML Classifier](https://github.com/Mbokil19/DIA-ML-prediction-)**  
+**[Drug-Induced Autoimmunity ML Classifier](https://github.com/Mbokil19/DIA-ML-prediction)**  
 A supervised learning model (XGBoost) built using chemical structure data to improve DIA detection.  
 This work explores the use of RDKit descriptors + SHAP analysis to enhance prediction accuracy and interpretability.
 
 🧬 Tools used: RDKit, scikit-learn, XGBoost, Optuna  
-📁 [View Repository](https://github.com/Mbokil19/DIA-ML-prediction-)
+📁 [View Repository](https://github.com/Mbokil19/DIA-ML-prediction)
 
 ---
 
