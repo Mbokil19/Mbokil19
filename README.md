@@ -1,8 +1,5 @@
 ## 👋 Hi, I'm Madhura Bokil
 
-<!--
-**Mbokil19/Mbokil19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 A Food Scientist turned Data Analyst passionate about transforming complex data into actionable insights. From food safety to AI, I’m focused on solving real-world challenges through data.
 
 🎓 MS in Data Analytics | MPS in Food Science (Cornell)  
